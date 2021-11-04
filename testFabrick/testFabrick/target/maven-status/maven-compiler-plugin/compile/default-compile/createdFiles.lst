@@ -1,0 +1,7 @@
+com\test\fabrik\testFabrick\model\Transazione.class
+com\test\fabrik\testFabrick\ServletInitializer.class
+com\test\fabrik\testFabrick\model\Account.class
+com\test\fabrik\testFabrick\TestFabrickApplication.class
+com\test\fabrik\testFabrick\model\Customer.class
+com\test\fabrik\testFabrick\controller\ControllerAccount.class
+com\test\fabrik\testFabrick\model\Bonifico.class
